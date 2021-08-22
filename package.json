@@ -8,7 +8,8 @@
     "build:lib": "ng-packagr -p projects/ngx-loading/package.json",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "prepare": "npm run build:lib"
   },
   "private": true,
   "dependencies": {
