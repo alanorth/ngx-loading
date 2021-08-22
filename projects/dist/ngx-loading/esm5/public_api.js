@@ -1,0 +1,8 @@
+/*
+ * Public API Surface of ngx-loading
+ */
+export * from './lib/ngx-loading.service';
+export * from './lib/ngx-loading.component';
+export * from './lib/ngx-loading.module';
+export * from './lib/ngx-loading-config';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25neC1sb2FkaW5nLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsMkJBQTJCLENBQUM7QUFDMUMsY0FBYyw2QkFBNkIsQ0FBQztBQUM1QyxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsMEJBQTBCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5neC1sb2FkaW5nXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvbmd4LWxvYWRpbmcuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZ3gtbG9hZGluZy5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmd4LWxvYWRpbmcubW9kdWxlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL25neC1sb2FkaW5nLWNvbmZpZyc7XG4iXX0=
